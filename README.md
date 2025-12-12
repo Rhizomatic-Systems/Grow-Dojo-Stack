@@ -1,5 +1,5 @@
-<!-- doc version 0.4.1 alpha -->
-# GROW.DOJO STACK
+<!-- doc version 0.4.2 alpha -->
+<h1 align="center">GROW.DOJO STACK</h1>
 <img src="https://raw.githubusercontent.com/Rhizomatic-Systems/Grow-Dojo-Stack/refs/heads/main/assets/img/GDstackFunctionHeader.jpg" alt="GrowDojo Uses"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Workbench&pause=1000&color=009704&center=true&vCenter=true&width=300&lines=HYDROPONICS+(RUN-TO-WASTE);RECIRCULATING+HYDROPONICS;GREENHOUSES;CLOSED+ENVIRONMENT+ARGICULTURE;INDOOR+SOIL+SYSTEMS;TRADITIONAL+OUTDOOR+SOIL;ORGANIC+SOIL+OR+HYDRO;PERMACULTURE;AQUAPONICS;MICRO-GROW+TO+INDUSTRIAL)](https://git.io/typing-svg)
